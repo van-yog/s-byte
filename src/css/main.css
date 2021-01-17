@@ -214,6 +214,12 @@ body {
   text-decoration: none;
 }
 
+.main-right__link:hover {
+  color: #262f32;
+  border: 1px solid #262f32;
+  background-color: #f3f3f3;
+}
+
 .dark-text {
   color: #262f32;
 }
@@ -288,6 +294,7 @@ body {
 .form {
   display: flex;
   flex-direction: column;
+  margin-bottom: 85px;
 }
 
 .form__input {
@@ -321,6 +328,7 @@ body {
   text-decoration: none;
   align-items: center;
   padding: 0;
+  margin-bottom: 45px;
   list-style-type: none;
 }
 
@@ -365,4 +373,8 @@ body {
   margin: auto;
   overflow: auto;
   display: block;
+}
+
+.footer__header-margin {
+  margin-bottom: 50px;
 }
