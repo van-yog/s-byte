@@ -142,7 +142,7 @@ body {
 }
 
 .main-left {
-  background-image: url("./src/img/second_left.png");
+  background-image: url("../img/second_left.png");
   background-size: 100%;
   width: 44%;
   padding: 70px 100px 65px 60px;
@@ -176,7 +176,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-image: url("./src/img/second_right_1.png");
+  background-image: url("../img/second_right_1.png");
   padding: 0px 100px 0 50px;
 }
 
@@ -189,7 +189,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url("./src/img/second_right_2.png");
+  background-image: url("../img/second_right_2.png");
   padding: 0 100px 0 50px;
 }
 
@@ -238,7 +238,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   padding: 70px 65px 70px 45px;
-  background-image: url("./src/img/third_left.png");
+  background-image: url("../img/third_left.png");
   background-size: cover;
 }
 
@@ -250,7 +250,7 @@ body {
 .footer-right {
   width: 65%;
 
-  background-image: url("./src/img/third_right.png");
+  background-image: url("../img/third_right.png");
 
   background-size: cover;
   display: flex;
@@ -259,7 +259,7 @@ body {
 }
 
 .footer-right::after {
-  background-image: url("./src/img/third_right_2.png");
+  background-image: url("../img/third_right_2.png");
   opacity: 0.4;
 }
 
